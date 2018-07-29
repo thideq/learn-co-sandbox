@@ -9,3 +9,14 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+
+cd .. // reviens dans le repertoire parent
+cd cr + tab: vas dans un repertoire enfant
+httpserver: donne l'adresse ip pour retrouver le fichier a partir d'un brawser
+Control + L: clean and refresh
+Control + C: stop any process
+gitHub: page pour heberger les fichiers
+open Github (icon a cote de SANDBOX)
+selectionner clone, puis SSH, puis copier
+Retour a Snadbox et 'git clone + copier adresse'
+cd cr + tab pour aller dans le repertoir
